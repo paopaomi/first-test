@@ -1,6 +1,6 @@
 //
 //  tmp-file.c
-//  gateway
+//
 //
 //  Created by Gloria on 2019/7/28.
 //  Copyright © 2019 Gloria. All rights reserved.
